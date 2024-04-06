@@ -1,5 +1,5 @@
-# End to end Text-Summarizer-Project
-
+# Text-Summarizer-Project
+** Currently Not Deployed because free limit exceeded in aws **
 ## Workflows
 
 1. Update config.yaml
